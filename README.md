@@ -1,3 +1,3 @@
 # CreeperMOTD
 Motd plugin
-Download page.
+Download page
